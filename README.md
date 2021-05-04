@@ -1,4 +1,4 @@
-# This is a University project for Natural language processing course 
+# This is a university project for Natural language processing course 
 The aim of this project is to create several models for predicting movie reviews based on their contents and compare accuracy between them selecting the best one. 
 Reviews are downloaded from the internet.
 
@@ -19,4 +19,4 @@ pip install matplotlib
 pip install nltk
 pip install sklearn
 ```
-You will need also to install PyTorch, you need to do this via this [link](https://pytorch.org) and choose appropriate version
+You will need also to install PyTorch, you can to do this via this [link](https://pytorch.org) and choose appropriate version
