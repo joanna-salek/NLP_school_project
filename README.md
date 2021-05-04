@@ -17,6 +17,6 @@ Reviews are downloaded from the internet.
 pip install numpy
 pip install matplotlib
 pip install nltk
-pip install sklearn
+pip install -U scikit-learn
 ```
 You will need also to install PyTorch, you can to do this via this [link](https://pytorch.org) and choose appropriate version
